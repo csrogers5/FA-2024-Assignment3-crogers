@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FA-2024-Assignment3-crogers.props" />
+</Project>
